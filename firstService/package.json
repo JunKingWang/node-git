@@ -1,0 +1,23 @@
+{
+  "name": "runoob",
+  "version": "1.0.0",
+  "description": "Node.js 测试模块(www.runoob.com)",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "123",
+  "license": "ISC"
+}
